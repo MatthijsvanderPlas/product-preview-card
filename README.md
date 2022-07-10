@@ -1,3 +1,2 @@
-# Frontend Mentor Challenge 
-## Prodcut-preview-card
+# Frontend Mentor Challenge ## Prodcut-preview-card
 
